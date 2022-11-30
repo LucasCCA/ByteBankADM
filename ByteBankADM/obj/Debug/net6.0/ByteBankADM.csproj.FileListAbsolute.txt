@@ -1,0 +1,15 @@
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\bin\Debug\net6.0\ByteBankADM.exe
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\bin\Debug\net6.0\ByteBankADM.deps.json
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\bin\Debug\net6.0\ByteBankADM.runtimeconfig.json
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\bin\Debug\net6.0\ByteBankADM.dll
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\bin\Debug\net6.0\ByteBankADM.pdb
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.AssemblyInfoInputs.cache
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.AssemblyInfo.cs
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.dll
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\refint\ByteBankADM.dll
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.pdb
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ByteBankADM.genruntimeconfig.cache
+C:\AprendendoCSharp\ByteBankADM\ByteBankADM\obj\Debug\net6.0\ref\ByteBankADM.dll

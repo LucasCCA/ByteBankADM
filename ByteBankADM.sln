@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankADM", "ByteBankADM\ByteBankADM.csproj", "{D79E467C-F11B-44E8-BCF3-E5F56D1D8EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79E467C-F11B-44E8-BCF3-E5F56D1D8EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79E467C-F11B-44E8-BCF3-E5F56D1D8EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79E467C-F11B-44E8-BCF3-E5F56D1D8EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79E467C-F11B-44E8-BCF3-E5F56D1D8EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49792A19-B1C6-4FB9-B3ED-B3AD1AEA42B2}
+	EndGlobalSection
+EndGlobal
